@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "/",
-      "destination": "https://script.google.com/a/macros/ites.com.br/s/AKfycbwsplJo4P8Qj1Wycpo9hRwNOKIVKfaeEXt7nCVMz1oLAMGRwLyf4SeqGw8yRStP7tWr/exec",
-      "permanent": false
-    }
-  ]
-}
